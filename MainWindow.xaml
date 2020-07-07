@@ -10,9 +10,9 @@
 
         <StackPanel Orientation="Vertical">
             <StackPanel Orientation="Horizontal" Margin="105,175" Width="170" Height="50">
-                <Button x:Name="RegistrarArticuloButton" Width="150" Click="RegistrarArticuloButton_Click" >
+                <Button x:Name="ProyectoButton" Width="150" Click="ProyectoButton_Click" >
                     <StackPanel>
-                        <Label Content="Registrar Articulo" FontSize="18"/>
+                        <Label Content="Proyectos" FontSize="18"/>
                     </StackPanel>
                 </Button>
 
